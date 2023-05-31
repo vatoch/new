@@ -1,8 +1,12 @@
-#include <stdlib.h>
+
 #include <stdio.h>
+#include <stdlib.h>
+
 
 
 int main() {
-    printf("from featurea a \n");
+    printf("my name is vato\n");
+
+
     return 0;
 }
